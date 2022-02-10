@@ -24,23 +24,9 @@ body {
   padding-left: 30px;
 }
 
-.menu-right {
-  display: flex;
-}
-
-.menu-right ul {
-  display: flex;
-  list-style: none;
-  justify-content: space-between;
-}
-
-.menu-right li {
-  padding: 1.5rem;
+.toggle {
+  padding: 2rem;
   margin: 1rem;
-}
-
-.menu-right a {
-  text-decoration: none;
 }
 
 .section1 {
@@ -61,19 +47,6 @@ body {
   font-weight: bold;
 }
 
-@media only screen and (max-device-width: 480px) {
-  body {
-      background-image: url(media-queries-phone.jpg);
-      height: 93px;
-      position: relative;
-  }
-
-  header.main-header h1 {
-      font-size: 70%;
-  }
-
-  nav.menu-right {
-    display: none;
-  }
-
+.connection {
+  opacity: 0.5;
 }
