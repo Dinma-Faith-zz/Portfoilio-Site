@@ -1,0 +1,23 @@
+{
+  "name": "portfoilio-site",
+  "version": "1.0.0",
+  "description": "Build a mobie website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dinma-Faith/Portfoilio-Site.git"
+  },
+  "author": "Dinma-Faith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dinma-Faith/Portfoilio-Site/issues"
+  },
+  "homepage": "https://github.com/Dinma-Faith/Portfoilio-Site#readme",
+  "devDependencies": {
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard": "^25.0.0"
+  }
+}
